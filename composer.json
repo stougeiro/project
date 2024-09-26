@@ -1,0 +1,13 @@
+{
+    "name": "stougeiro/project",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "STougeiro",
+            "email": "sidneytougeiro@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
