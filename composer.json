@@ -1,6 +1,7 @@
 {
     "name": "stougeiro/project",
     "type": "project",
+    "version": "0.2.0",
     "license": "MIT",
     "authors": [
         {
