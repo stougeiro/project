@@ -1,1 +1,1 @@
-composer create-project stougeiro/project
+composer create-project stougeiro/project ./
